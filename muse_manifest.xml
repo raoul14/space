@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="space.com" resolutions="1x" timestamp="1475684272584">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="122014871" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="4026596197" ref="index"/>
+    <file name="nomq_index.css" crc="209397835" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="star.png" crc="3905347579" seo="true" ref="index"/>
+    <file name="wormhole.png" crc="471064788" seo="true" ref="index"/>
+    <file name="ship.png" crc="4199988674" seo="true" ref="index"/>
+    <file name="meteors.png" crc="4223021678" seo="true" ref="index"/>
+    <file name="star455x607.png" crc="3804573646" seo="true" ref="index"/>
+    <file name="wormhole465x620.png" crc="107703874" seo="true" ref="index"/>
+    <file name="ship474x633.png" crc="249488932" seo="true" ref="index"/>
+    <file name="meteors449x599.png" crc="253732646" seo="true" ref="index"/>
+    <file name="star393x524.png" crc="3582601" seo="true" ref="index"/>
+    <file name="wormhole384x512.png" crc="4240082048" seo="true" ref="index"/>
+    <file name="ship391x521.png" crc="532974231" seo="true" ref="index"/>
+    <file name="meteors388x517.png" crc="14301084" seo="true" ref="index"/>
+    <file name="star354x473.png" crc="4009037307" seo="true" ref="index"/>
+    <file name="wormhole332x442.png" crc="4265997621" seo="true" ref="index"/>
+    <file name="ship347x462.png" crc="166387516" seo="true" ref="index"/>
+    <file name="meteors307x409.png" crc="3966500312" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="311662643" seo="true" mt="1475684213795" redirect="true"/>
+</manifest>
